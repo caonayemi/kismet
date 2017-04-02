@@ -1,0 +1,2 @@
+class ScoreSheet < ApplicationRecord
+end

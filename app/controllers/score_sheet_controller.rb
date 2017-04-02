@@ -1,0 +1,2 @@
+class ScoreSheetController < ApplicationController
+end

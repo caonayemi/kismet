@@ -1,0 +1,2 @@
+class KismetSection < ApplicationRecord
+end

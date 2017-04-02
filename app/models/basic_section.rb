@@ -1,0 +1,2 @@
+class BasicSection < ApplicationRecord
+end
